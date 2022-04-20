@@ -14,7 +14,7 @@
   "license": "ISC",
   "devDependencies": {
     "mocha": "^7.1.1",
-    "moment": "^2.24.0",
+    "moment": "^2.29.2",
     "sinon": "^9.0.2"
   }
 }
